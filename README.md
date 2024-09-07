@@ -1,5 +1,5 @@
 # CnCovsimJe
-Code to reproduce the results in the article submission to RSTA journal.
+Code to reproduce the results in the article submission to Proceedings of the Royal Society A journal.
 It is neccesary a computer with linux or MacosX and install gcc and tclsh.
 
 To reproduce the results of the Fig4, 
